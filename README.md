@@ -1,6 +1,7 @@
 ADI Curriculum Template
 =======================
 
+//For Teachers//
 Make a new curriculum to be deployed on [learn.adicu.com](http://learn.adicu.com).  It's easy to get started writing your own curriculum!
 
 ### Getting started
